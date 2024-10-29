@@ -1,6 +1,6 @@
 {
-    "name": "i_service",
-    "short_name": "i_service",
+    "name": "i_service_4",
+    "short_name": "i_service_4",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
